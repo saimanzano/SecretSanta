@@ -8,7 +8,7 @@ Requires installing R libraries "argparse" and "blastula" which is handled autom
 For the emails, you will require the "app password" from that gmail address. Please see how to obtain it from:
 https://rstudio.github.io/blastula/articles/sending_using_smtp.html
 
-                         usage: SecretSanta.R [-h] [-e EMAIL] [-p PARTICIPANTS] [-a ADDITIONAL]
+usage: SecretSanta.R [-h] [-e EMAIL] [-p PARTICIPANTS] [-a ADDITIONAL]
 
 options:
   -h, --help            show this help message and exit
